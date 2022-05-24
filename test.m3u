@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="test" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="testG", zhibotest
+https://live17-nlxjdhtocy.zhibo.tv/8live/s_8187696.flv
