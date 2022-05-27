@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-id="1" tvg-name="zhibo" tvg-logo="https://raw.githubusercontent.com/sdjk/IPTV/master/20211124212738_16647.png" group-title="临时源", 环意第17赛段
 https://live17-nlxjdhtocy.zhibo.tv/8live/s_8187696.flv
 
-#EXTINF:-1 tvg-id="2" tvg-name="NBA" tvg-logo="https://mat1.gtimg.com/sports/kbsweb4/assets/176e7c5f3d7dffbd0d7d.png" group-title="临时源", NBA
-https://3a8dc44d91c895b6941bc0e5ed3ad768.v.smtcdns.net:443/txycdn.video.qq.com/8038C79884FC178ABD4BB8C778D6B26EF2BBAB66E42A0A1C9414F9DD72780EF9CA6C04BA7286B71A0FD6E901CF89C97A628E9DC3495E885DE6B7801BEB574E06A6F3BF41E00AF9B0E0FEB0C0C2995DB144B0C0E66D13C9E073F8BAC4D41CC3DA15B92C67018DAD1F/1359414502.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="NBA" tvg-logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" group-title="临时源", 咪咕NBA
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
