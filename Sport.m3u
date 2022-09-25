@@ -17,8 +17,9 @@ http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
 http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="企鹅体育" tvg-logo="https://live.qq.com/nextStatic/img/head/logo.png" group-title="体育",企鹅体育 1080P
-http://hls-broadcast-bd1.qiecdn.com/live/10060823rid4cJ8X.m3u8?timestamp=1664081073&secret=e160b28e4164e1a51734416906798f3e
+ http://hls-broadcast-bd1.qiecdn.com/live/10060823rid4cJ8X.m3u8?timestamp=1664081635&secret=bfcf95a03af1412b8ec47aeef1c7b70a
 
+https://flv-tencent-vplay.qiecdn.com/live/10060823rid4cJ8X.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="iqiyi" tvg-logo="https://www.themoviedb.org/t/p/original/6d8QSrF32NR5fG9j5rKy3sAqzvs.png" group-title="综艺",巅峰说唱2 1080P
 
 
