@@ -1,0 +1,33 @@
+#EXTINF:-1 tvg-id="1" tvg-name="中国体育" tvg-logo="https://raw.githubusercontent.com/sdjk/IPTV/master/20211124212738_16647.png" group-title="体育",自行车付费 1080P
+https://live17-nlxjdhtocy.zhibo.tv/8live/s_8187696.flv
+
+#EXTINF:-1 tvg-id="2" tvg-name="中国体育" tvg-logo="https://raw.githubusercontent.com/sdjk/IPTV/master/20211124212738_16647.png" group-title="体育",自行车免费 1080P
+https://live17-ymqmfdtqrx.zhibo.tv/8live/s_8187696.flv
+
+#EXTINF:-1 tvg-id="3" tvg-name="咪咕NBA" tvg-logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" group-title="体育",咪咕NBA 1080P
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="咪咕UFC" tvg-logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" group-title="体育",咪咕UFC 1080P
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="咪咕足球" tvg-logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" group-title="体育",咪咕足球1 1080P
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="咪咕足球" tvg-logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" group-title="体育",咪咕足球2 1080P
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="企鹅体育" tvg-logo="https://live.qq.com/nextStatic/img/head/logo.png" group-title="体育",企鹅体育 1080P
+https://flv-tencent-vplay.qiecdn.com/live/10130760rRUXoztw.flv?wsAuth=e4f01843a74a15ff4f5c616035aeb50c&token=1&time=1663482356
+
+#EXTINF:-1 tvg-id="8" tvg-name="iqiyi" tvg-logo="https://www.themoviedb.org/t/p/original/6d8QSrF32NR5fG9j5rKy3sAqzvs.png" group-title="综艺",巅峰说唱2 1080P
+
+
+#EXTINF:-1 tvg-id="6" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="体育",广东体育 1080P
+
+#EXTINF:-1 tvg-id="7" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="体育",五星体育 1080P
+
+#EXTINF:-1 tvg-id="8" tvg-name="eurosport1" tvg-logo="https://raw.githubusercontent.com/sdjk/IPTV/master/eurosport1.png" group-title="体育",欧体西语 1 1080P
+
+#EXTINF:-1 tvg-id="9" tvg-name="抖音直播" tvg-logo="https://raw.githubusercontent.com/sdjk/IPTV/master/douyin.png" group-title="体育",抖音勒芒 720P
+
+#EXTINF:-1 tvg-id="10" tvg-name="企鹅体育" tvg-logo="https://live.qq.com/nextStatic/img/head/logo.png" group-title="体育",企鹅勒芒 1080P
